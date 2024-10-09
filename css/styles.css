@@ -223,7 +223,7 @@ blockquote p {
 }
 
 .content {
-	padding: 50px;
+	padding-block: 50px;
 	color: #f9faf8;
 }
 
